@@ -24,7 +24,6 @@ Getting started (how I run it locally)
 
    npm install
 
-   (I use Node 18+ and npm 9+, but it should work fine with other recent versions.)
 
 3. Run the dev server:
 
